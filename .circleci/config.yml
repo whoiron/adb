@@ -8,6 +8,11 @@ jobs:
     branches:
       only:
         - master
+        - /rc-.*/
+      ignore:
+        - gh-pages
+        - /feature-.*/
+
     docker:
       # specify the version you desire here
       - image: circleci/node:7.10
