@@ -13,7 +13,10 @@
     "gatsby-link": "^1.6.34",
     "gatsby-plugin-glamor": "^1.6.12",
     "gatsby-plugin-typography": "^1.7.14",
+    "gatsby-source-filesystem": "^1.5.19",
+    "gatsby-transformer-yaml": "^1.5.15",
     "glamorous": "^4.11.4",
+    "limax": "^1.6.0",
     "typography": "^0.16.6",
     "typography-theme-moraga": "^0.15.10"
   },
