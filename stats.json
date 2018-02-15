@@ -1,32 +1,40 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-1ef52f8d8fd3f1c5f40f.js",
-      "component---src-pages-index-js-1ef52f8d8fd3f1c5f40f.js.map"
+      "component---src-pages-index-js-4f010cc3eba6a6d59ae4.js",
+      "component---src-pages-index-js-4f010cc3eba6a6d59ae4.js.map"
     ],
     "path---": [
       "path----1878de531b1226090c01.js",
       "path----1878de531b1226090c01.js.map"
     ],
+    "component---src-templates-character-post-js": [
+      "component---src-templates-character-post-js-fab5b0c156693702a03f.js",
+      "component---src-templates-character-post-js-fab5b0c156693702a03f.js.map"
+    ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-1614c854fecc85325e76.js",
-      "component---src-layouts-index-js-1614c854fecc85325e76.js.map"
+      "component---src-layouts-index-js-203ba275f09af7de883d.js",
+      "component---src-layouts-index-js-203ba275f09af7de883d.js.map"
     ],
     "path---index": [
-      "path---index-a0e39f21c11f6a62c5ab.js",
-      "path---index-a0e39f21c11f6a62c5ab.js.map"
+      "path---index-07a5f059c7c6027f00bf.js",
+      "path---index-07a5f059c7c6027f00bf.js.map"
     ],
     "commons": [
-      "commons-89721cf82538c454028e.js",
-      "commons-89721cf82538c454028e.js.map"
+      "commons-ca85ac4f5907e2be18c6.js",
+      "commons-ca85ac4f5907e2be18c6.js.map"
     ],
     "app": [
-      "app-4d3484ac18840ca90730.js",
-      "app-4d3484ac18840ca90730.js.map"
+      "app-6405579f839f04cdc172.js",
+      "app-6405579f839f04cdc172.js.map"
+    ],
+    "path---characters-song-1-tian-2-ya-4-li-4-sha-1": [
+      "path---characters-song-1-tian-2-ya-4-li-4-sha-1-795663c8bab4102359dc.js",
+      "path---characters-song-1-tian-2-ya-4-li-4-sha-1-795663c8bab4102359dc.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-cf1ecab3923964ba9854.js",
-      "component---src-pages-about-js-cf1ecab3923964ba9854.js.map"
+      "component---src-pages-about-js-bd22c7f8b6cc7d8fba9c.js",
+      "component---src-pages-about-js-bd22c7f8b6cc7d8fba9c.js.map"
     ],
     "path---about": [
       "path---about-619aa644fc8692e11a1e.js",
