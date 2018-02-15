@@ -1,2 +1,0 @@
-webpackJsonp([0x81b8806e4260],{376:function(a,e){a.exports={data:{allDiscordYaml:{edges:[{node:{id:"ありさーばー☆",link:"http://google.com",character:"松田亜利沙",fields:{character___slug:"/characters/song1-tian2-ya4-li4-sha1/"}}}]}},pathContext:{}}}});
-//# sourceMappingURL=path---index-07a5f059c7c6027f00bf.js.map
