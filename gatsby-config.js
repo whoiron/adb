@@ -1,7 +1,7 @@
 module.exports = {
   pathPrefix: `/adb`,
   siteMetadata: {
-    title: `adb`,
+    title: `ARISA Idol Database`,
   },
   mapping: {
     "MarkdownRemark.frontmatter.character": `CharacterYaml`,
