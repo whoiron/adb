@@ -9,7 +9,7 @@ export default ({data}) => (
   </div>
 );
 
-export const query = graphql`
+export const aboutQuery = graphql`
   query AboutQuery {
     site {
       siteMetadata {

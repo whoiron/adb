@@ -14,8 +14,12 @@ export default ({data}) => (
       <tbody>
       {data.allDiscordYaml.edges.map(({node}, i) => (
         <tr key={`${i}`}>
-          <td><Link to={node.fields.character___slug}>{node.character}</Link></td>
-          <td><a href={node.link} target="_blank">{node.id}</a></td>
+          <td>
+            {/*<Link to={node.fields.character___slug}>*/}
+              {node.character}
+            {/*</Link>*/}
+          </td>
+          <td>{node.link && <a href={node.link} target="_blank">{node.id}</a>}</td>
         </tr>
       ))}
       </tbody>
@@ -23,7 +27,7 @@ export default ({data}) => (
   </div>
 );
 
-export const query = graphql`
+export const indexQuery = graphql`
   query IndexQuery {
     allDiscordYaml {
       edges {

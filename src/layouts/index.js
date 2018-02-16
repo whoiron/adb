@@ -34,7 +34,7 @@ export const query = graphql`
   query LayoutQuery {
     site {
       siteMetadata {
-        title    
+        title
       }
     }
   }
