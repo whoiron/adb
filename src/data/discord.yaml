@@ -1,3 +1,11 @@
+- id: "THE IDOL@STER Millionlive!談話室"
+  link: https://discord.gg/hhNTytM
+  type: "general"
+  description: "ミリオンライブ総合サーバー"
+- id: "ミリオン開発部"
+  link: https://discord.gg/c6x6964
+  type: "general"
+  description: "プログラミングや動画編集、画像編集、Discordのbot/Webhookといった技術系の情報共有や教えあいを目的としたサーバー"
 - id: "つばさーばー"
   link: https://discord.gg/KcZmz4m
   character: "伊吹翼"
@@ -10,7 +18,7 @@
 - id: "未来ちゃんと宿題をする会"
   link: https://discord.gg/nMmMuMp
   character: "春日未来"
-  sites:
+  tbSites:
     - name: "https://maxkss.github.io/miraikawai/"
       link: https://maxkss.github.io/miraikawai/
 - id: "れいかのへや"
@@ -41,6 +49,9 @@
   link: https://discord.gg/HqHn67m
   character: "白石紬"
   sites:
+    - name: "https://tsumugi.fun/"
+      link: https://tsumugi.fun/
+  tbSites:
     - name: "https://nannan.matyaro.net/"
       link: https://nannan.matyaro.net/
     - name: "https://stumugi.wixsite.com/tumugi-tantei"
@@ -56,6 +67,9 @@
 - id: "345ch"
   link: https://discord.gg/nfwtYbm
   character: "高山紗代子"
+  sites:
+    - name: "https://www.sayoko.cn/"
+      link: https://www.sayoko.cn/
 - id: "田中琴葉のことことこーど"
   link: https://discordapp.com/invite/WmswXq
   character: "田中琴葉"
@@ -79,7 +93,7 @@
 - id: "ゆりこーど"
   link: https://discord.gg/jEET6Pj
   character: "七尾百合子"
-  sites:
+  tbSites:
     - name: "http://770yuriko-detective-agency.webnode.jp/"
       link: http://770yuriko-detective-agency.webnode.jp/
     - name: "http://lilyknight-scoops.webnode.jp/"
@@ -96,6 +110,9 @@
   link: https://discord.gg/pWJRjKE
   character: "馬場このみ"
   sites:
+    - name: "ババペディア"
+      link: http://pekesan.sakura.ne.jp/wiki/babawiki/doku.php?id=index.html
+  tbSites:
     - name: "オードリー・ヘップ馬場ーン"
       link: http://pekesan.sakura.ne.jp/wiki/babawiki/doku.php?id=wiki:%E3%82%AA%E3%83%BC%E3%83%89%E3%83%AA%E3%83%BC%E3%83%BB%E3%83%98%E3%83%83%E3%83%97%E9%A6%AC%E5%A0%B4%E3%83%BC%E3%83%B3
 - id: "のり子ーど"
@@ -127,9 +144,15 @@
 - id: "横山奈緒こ〜ど"
   link: https://t.co/F6MCqsP3xz
   character: "横山奈緒"
+  sites:
+    - name: "横山奈緒wiki"
+      link: http://seesaawiki.jp/ykym70/
 - id: "ROCORD"
   link: https://discord.gg/YTpV　YYK
   character: "ロコ"
+  sites:
+    - name: "http://rocoro.co/king/"
+      link: http://rocoro.co/king/
 - id: "天海春香 discordなし"
   character: "天海春香"
 - id: "我那覇響 discordなし"
