@@ -1,44 +1,52 @@
 {
   "assetsByChunkName": {
+    "component---src-pages-discord-js": [
+      "component---src-pages-discord-js-a756c3a16e91dcd46a5a.js",
+      "component---src-pages-discord-js-a756c3a16e91dcd46a5a.js.map"
+    ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-5bdb0b1e840d01754b3c.js",
-      "component---src-pages-index-js-5bdb0b1e840d01754b3c.js.map"
+      "component---src-pages-index-js-b1c7748613614a2ff567.js",
+      "component---src-pages-index-js-b1c7748613614a2ff567.js.map"
     ],
     "path---": [
-      "path----1878de531b1226090c01.js",
-      "path----1878de531b1226090c01.js.map"
+      "path----7ef81c156977779bc087.js",
+      "path----7ef81c156977779bc087.js.map"
     ],
     "component---src-templates-character-post-js": [
       "component---src-templates-character-post-js-fab5b0c156693702a03f.js",
       "component---src-templates-character-post-js-fab5b0c156693702a03f.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-203ba275f09af7de883d.js",
-      "component---src-layouts-index-js-203ba275f09af7de883d.js.map"
+      "component---src-layouts-index-js-cd3ad45ae449ff1df2cd.js",
+      "component---src-layouts-index-js-cd3ad45ae449ff1df2cd.js.map"
     ],
     "path---index": [
-      "path---index-11e4d549ce8c0e2609fa.js",
-      "path---index-11e4d549ce8c0e2609fa.js.map"
+      "path---index-28a6d0cc6e6808d32fae.js",
+      "path---index-28a6d0cc6e6808d32fae.js.map"
     ],
     "commons": [
       "commons-ca85ac4f5907e2be18c6.js",
       "commons-ca85ac4f5907e2be18c6.js.map"
     ],
+    "path---discord": [
+      "path---discord-beb972f8794a302b2dff.js",
+      "path---discord-beb972f8794a302b2dff.js.map"
+    ],
     "app": [
-      "app-6405579f839f04cdc172.js",
-      "app-6405579f839f04cdc172.js.map"
+      "app-6727bfdb0fef33be62c6.js",
+      "app-6727bfdb0fef33be62c6.js.map"
     ],
     "path---characters-song-1-tian-2-ya-4-li-4-sha-1": [
       "path---characters-song-1-tian-2-ya-4-li-4-sha-1-795663c8bab4102359dc.js",
       "path---characters-song-1-tian-2-ya-4-li-4-sha-1-795663c8bab4102359dc.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-bae1b9d359e60a7f5af1.js",
-      "component---src-pages-about-js-bae1b9d359e60a7f5af1.js.map"
+      "component---src-pages-about-js-3356a5cb21bc0ab51880.js",
+      "component---src-pages-about-js-3356a5cb21bc0ab51880.js.map"
     ],
     "path---about": [
-      "path---about-619aa644fc8692e11a1e.js",
-      "path---about-619aa644fc8692e11a1e.js.map"
+      "path---about-28a6d0cc6e6808d32fae.js",
+      "path---about-28a6d0cc6e6808d32fae.js.map"
     ]
   }
 }
