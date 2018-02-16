@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-4f010cc3eba6a6d59ae4.js",
-      "component---src-pages-index-js-4f010cc3eba6a6d59ae4.js.map"
+      "component---src-pages-index-js-5bdb0b1e840d01754b3c.js",
+      "component---src-pages-index-js-5bdb0b1e840d01754b3c.js.map"
     ],
     "path---": [
       "path----1878de531b1226090c01.js",
@@ -17,8 +17,8 @@
       "component---src-layouts-index-js-203ba275f09af7de883d.js.map"
     ],
     "path---index": [
-      "path---index-07a5f059c7c6027f00bf.js",
-      "path---index-07a5f059c7c6027f00bf.js.map"
+      "path---index-11e4d549ce8c0e2609fa.js",
+      "path---index-11e4d549ce8c0e2609fa.js.map"
     ],
     "commons": [
       "commons-ca85ac4f5907e2be18c6.js",
@@ -33,8 +33,8 @@
       "path---characters-song-1-tian-2-ya-4-li-4-sha-1-795663c8bab4102359dc.js.map"
     ],
     "component---src-pages-about-js": [
-      "component---src-pages-about-js-bd22c7f8b6cc7d8fba9c.js",
-      "component---src-pages-about-js-bd22c7f8b6cc7d8fba9c.js.map"
+      "component---src-pages-about-js-bae1b9d359e60a7f5af1.js",
+      "component---src-pages-about-js-bae1b9d359e60a7f5af1.js.map"
     ],
     "path---about": [
       "path---about-619aa644fc8692e11a1e.js",
