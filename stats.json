@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-discord-js": [
-      "component---src-pages-discord-js-44298f7b5edcc6f60f28.js",
-      "component---src-pages-discord-js-44298f7b5edcc6f60f28.js.map"
+      "component---src-pages-discord-js-5c388c76aa60389a9b87.js",
+      "component---src-pages-discord-js-5c388c76aa60389a9b87.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-b1c7748613614a2ff567.js",
@@ -29,8 +29,8 @@
       "commons-ca85ac4f5907e2be18c6.js.map"
     ],
     "path---discord": [
-      "path---discord-5708ca4683e1f5a81242.js",
-      "path---discord-5708ca4683e1f5a81242.js.map"
+      "path---discord-316acf86c06871392fff.js",
+      "path---discord-316acf86c06871392fff.js.map"
     ],
     "app": [
       "app-6727bfdb0fef33be62c6.js",
