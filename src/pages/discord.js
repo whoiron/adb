@@ -6,10 +6,12 @@ export default ({data}) => (
   <div>
     <g.H2>アイドルDiscord・アイドルサイトまとめ</g.H2>
 
-    <p>追加希望、削除希望については <a href="https://github.com/whoiron/adb/issues" target="_blank">GitHub Issue</a> までお知らせください。</p>
+    <p>
+      総合サーバーで紹介されたもののみまとめています。<br/>
+      追加希望、削除希望については <a href="https://github.com/whoiron/adb/issues" target="_blank">GitHub Issue</a> までお知らせください。
+    </p>
 
-    <p>総合サーバーで紹介されたもののみまとめています。</p>
-    <p>各サーバーではそのサーバーのルールに従い、不明点は管理人に問い合わせていただきますようお願いします</p>
+    <p>各サーバーではそのサーバーのルールに従い、不明点は管理人に問い合わせていただきますようお願いします。</p>
 
     <table>
       <thead>
