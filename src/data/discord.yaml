@@ -2,6 +2,10 @@
   link: https://discord.gg/hhNTytM
   type: "general"
   description: "ミリオンライブ総合サーバー"
+- id: "隔離鯖"
+  link: https://discord.gg/yEPHQSj
+  type: "general"
+  description: "18歳以上限定のR18が許可されたサーバー 入室後管理者による認証を経るとチャンネルへの参加ができます。"
 - id: "ミリオン開発部"
   link: https://discord.gg/c6x6964
   type: "general"
@@ -24,14 +28,14 @@
 - id: "れいかのへや"
   link: https://discord.gg/dBsgfe9
   character: "北上麗花"
-- id: "志保Pたちの雑談室"
+- id: "志保P達の雑談室"
   link: https://discord.gg/2qxSMxf
   character: "北沢志保"
 - id: "木下ひなた祖父母の会"
-  link: https://discordapp.com/invite/gXUX7fC
+  link: https://discord.gg/gXUX7fC
   character: "木下ひなた"
 - id: "高坂海美女子力アップ委員会"
-  link: https://discord.gg/ghyF5Ux
+  link: https://discord.gg/TTQKDy9
   character: "高坂海美"
 - id: "さくら音楽教室"
   link: https://discord.gg/aH45jVd
@@ -59,28 +63,28 @@
     - name: "https://7652626.wixsite.com/salemswitch"
       link: https://7652626.wixsite.com/salemswitch
 - id: "ポルタメント"
-  link: https://discord.gg/54GJtqS
+  link: https://discord.gg/KHKB72t
   character: "ジュリア"
 - id: "ももこーど"
-  link: https://discord.gg/uBtqjEc
+  link: https://discord.gg/JUu87mR
   character: "周防桃子"
 - id: "345ch"
-  link: https://discord.gg/nfwtYbm
+  link: https://discord.gg/R8e6Ddg
   character: "高山紗代子"
   sites:
     - name: "https://www.sayoko.cn/"
       link: https://www.sayoko.cn/
 - id: "田中琴葉のことことこーど"
-  link: https://discordapp.com/invite/WmswXq
+  link: https://discord.gg/xudh2pc
   character: "田中琴葉"
 - id: "朋花チャペル～Mariacord～"
-  link: https://discord.gg/xt9cFkh
+  link: https://discord.gg/yn6hdEd
   character: "天空橋朋花"
 - id: "まつり軍寄り合い所"
-  link: https://discord.gg/hJgcgqt
+  link: https://discord.gg/BxUPXD5
   character: "徳川まつり"
 - id: "Me-gu-mi HappyCode!"
-  link: https://discord.gg/Q7WA7WG
+  link: https://discord.gg/wBrNrNS
   character: "所恵美"
 - id: "風花の猫カフェ"
   link: https://discord.gg/ZstBDRR
@@ -130,25 +134,25 @@
   link: https://discord.gg/QAVDyPr
   character: "宮尾美也"
 - id: "うどん屋「最上」"
-  link: https://discord.gg/gyJwrK2
+  link: https://discord.gg/99KQ95t
   character: "最上静香"
 - id: "ギルド「Vivid_Rabbits」"
-  link: https://discord.gg/TG7q3fF
+  link: https://discord.gg/a32gm9u
   character: "望月杏奈"
 - id: "Riocord"
   link: https://discord.gg/JkZ9NFu
   character: "百瀬莉緒"
-- id: "かなさば"
-  link: https://discord.gg/xv75dQa
+- id: "かなさば ♪"
+  link: https://discord.gg/VWrZuww
   character: "矢吹可奈"
 - id: "横山奈緒こ〜ど"
-  link: https://t.co/F6MCqsP3xz
+  link: https://discord.gg/wqDpckC
   character: "横山奈緒"
   sites:
     - name: "横山奈緒wiki"
       link: http://seesaawiki.jp/ykym70/
 - id: "ROCORD"
-  link: https://discord.gg/YTpV　YYK
+  link: https://discord.gg/YTpVYYK
   character: "ロコ"
   sites:
     - name: "http://rocoro.co/king/"
@@ -162,7 +166,8 @@
 - id: "「眠り姫」のお城"
   link: https://discord.gg/WWRDT4x
   character: "如月千早"
-- id: "四条貴音 discordなし"
+- id: "おいしいらぁめんや"
+  link: https://discord.gg/7PePhm
   character: "四条貴音"
 - id: "高槻やよい discordなし"
   character: "高槻やよい"
@@ -173,7 +178,7 @@
 - id: "双海真美 discordなし"
   character: "双海真美"
 - id: "おにぎりは！！！！"
-  link: https://t.co/DEsHWJ34Ke
+  link: https://discord.gg/uxPfVKA
   character: "星井美希"
 - id: "三浦あずさ discordなし"
   character: "三浦あずさ"
