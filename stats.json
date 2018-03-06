@@ -1,8 +1,8 @@
 {
   "assetsByChunkName": {
     "component---src-pages-discord-js": [
-      "component---src-pages-discord-js-76ef84f64b3a7ad9544f.js",
-      "component---src-pages-discord-js-76ef84f64b3a7ad9544f.js.map"
+      "component---src-pages-discord-js-0475dc48bc373b826c97.js",
+      "component---src-pages-discord-js-0475dc48bc373b826c97.js.map"
     ],
     "component---src-pages-index-js": [
       "component---src-pages-index-js-b1c7748613614a2ff567.js",
@@ -17,8 +17,8 @@
       "component---src-templates-character-post-js-fab5b0c156693702a03f.js.map"
     ],
     "component---src-layouts-index-js": [
-      "component---src-layouts-index-js-4d4f954c5303aff7ff59.js",
-      "component---src-layouts-index-js-4d4f954c5303aff7ff59.js.map"
+      "component---src-layouts-index-js-6018f563d3cf5132ad04.js",
+      "component---src-layouts-index-js-6018f563d3cf5132ad04.js.map"
     ],
     "path---index": [
       "path---index-28a6d0cc6e6808d32fae.js",
@@ -29,12 +29,12 @@
       "commons-ca85ac4f5907e2be18c6.js.map"
     ],
     "path---discord": [
-      "path---discord-aad63187317d4740981d.js",
-      "path---discord-aad63187317d4740981d.js.map"
+      "path---discord-febdc9be00a74636b11d.js",
+      "path---discord-febdc9be00a74636b11d.js.map"
     ],
     "app": [
-      "app-210afe838c2405a7672c.js",
-      "app-210afe838c2405a7672c.js.map"
+      "app-a61a41d4165e70f4f93d.js",
+      "app-a61a41d4165e70f4f93d.js.map"
     ],
     "path---characters-song-1-tian-2-ya-4-li-4-sha-1": [
       "path---characters-song-1-tian-2-ya-4-li-4-sha-1-795663c8bab4102359dc.js",
