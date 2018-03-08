@@ -159,6 +159,8 @@
   sites:
     - name: "http://rocoro.co/king/"
       link: http://rocoro.co/king/
+- id: "秋月律子 discordなし"
+  character: "秋月律子"
 - id: "天海春香 discordなし"
   character: "天海春香"
 - id: "我那覇響 discordなし"
@@ -183,7 +185,8 @@
 - id: "おにぎりは！！！！"
   link: https://discord.gg/uxPfVKA
   character: "星井美希"
-- id: "三浦あずさ discordなし"
+- id: "ゆったり、あずさんぽ道"
+  link: https://discord.gg/EC8SbK6
   character: "三浦あずさ"
 - id: "水瀬伊織 discordなし"
   character: "水瀬伊織"
