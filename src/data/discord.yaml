@@ -2,14 +2,22 @@
   link: https://discord.gg/hhNTytM
   type: "general"
   description: "ミリオンライブ総合サーバー"
-- id: "隔離鯖"
+- id: "垂れ幕の向こう側へ"
   link: https://discord.gg/yEPHQSj
   type: "general"
   description: "18歳以上限定のR18が許可されたサーバー 入室後管理者による認証を経るとチャンネルへの参加ができます。"
 - id: "ミリオン開発部"
   link: https://discord.gg/c6x6964
   type: "general"
-  description: "プログラミングや動画編集、画像編集、Discordのbot/Webhookといった技術系の情報共有や教えあいを目的としたサーバー"
+  description: "プログラミングや動画編集、画像編集、音楽、オーディオ、Discordのbot/Webhookといった技術系の情報共有や教えあいを目的としたサーバー。"
+- id: "ミリオンゲーム部"
+  link: https://discord.gg/q5f2JSb
+  type: "general"
+  description: "世の中の様々なゲームについてみんなで楽しく遊ぶためのサーバー「ミリオンゲーム部」が新設されました。性別や年齢、言語にとらわれず、ゲームをしちゃいましょう！"
+- id: "The IDOLM@STER: Million Live!"
+  link: https://discord.gg/kKNjyCB
+  type: "general"
+  description: "英語圏サーバー 英語ミリオンサーバーは全て英語でやり取りしています。英語わからない人は注意。"
 - id: "つばさーばー"
   link: https://discord.gg/KcZmz4m
   character: "伊吹翼"
@@ -176,7 +184,8 @@
   character: "四条貴音"
 - id: "高槻やよい discordなし"
   character: "高槻やよい"
-- id: "萩原雪歩 discordなし"
+- id: "ゆきほこーど萩原組"
+  link: https://discord.gg/XkpVzMQ
   character: "萩原雪歩"
 - id: "双海亜美 discordなし"
   character: "双海亜美"
