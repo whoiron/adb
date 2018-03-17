@@ -6,14 +6,22 @@
   link: https://discord.gg/yEPHQSj
   type: "general"
   description: "18歳以上限定のR18が許可されたサーバー 入室後管理者による認証を経るとチャンネルへの参加ができます。"
-- id: "ミリオン開発部"
+- id: "アイマス開発部"
   link: https://discord.gg/c6x6964
   type: "general"
   description: "プログラミングや動画編集、画像編集、音楽、オーディオ、Discordのbot/Webhookといった技術系の情報共有や教えあいを目的としたサーバー。"
-- id: "ミリオンゲーム部"
+- id: "アイマスゲーム部"
   link: https://discord.gg/q5f2JSb
   type: "general"
-  description: "世の中の様々なゲームについてみんなで楽しく遊ぶためのサーバー「ミリオンゲーム部」が新設されました。性別や年齢、言語にとらわれず、ゲームをしちゃいましょう！"
+  description: "世の中の様々なゲームについてみんなで楽しく遊ぶためのサーバー「アイマスゲーム部」。性別や年齢、言語にとらわれず、ゲームをしちゃいましょう！"
+- id: "CINDERELLA GIRLS CASTLE"
+  link: https://discord.gg/BPZaPbD
+  type: "general"
+  description: "姉妹サーバー シンデレラガールズ総合サーバー"
+- id: "SideMP雑談ラウンジ！"
+  link: https://discord.gg/a9uzP2N
+  type: "general"
+  description: "姉妹サーバー SideM総合サーバー"
 - id: "The IDOLM@STER: Million Live!"
   link: https://discord.gg/kKNjyCB
   type: "general"
@@ -197,7 +205,8 @@
 - id: "ゆったり、あずさんぽ道"
   link: https://discord.gg/EC8SbK6
   character: "三浦あずさ"
-- id: "水瀬伊織 discordなし"
+- id: "伊織サーバー（仮）"
+  link: https://discord.gg/FnH2K2g
   character: "水瀬伊織"
 - id: "音無小鳥 discordなし"
   character: "音無小鳥"
