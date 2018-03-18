@@ -180,7 +180,8 @@
   sites:
     - name: "http://rocoro.co/king/"
       link: http://rocoro.co/king/
-- id: "秋月律子 discordなし"
+- id: "眼鏡屋765 りつこーど店"
+  link: https://discord.gg/YUedab8
   character: "秋月律子"
 - id: "天海春香のお料理教室"
   link: https://discord.gg/5aNNGmj
@@ -203,10 +204,9 @@
 - id: "ゆきほこーど萩原組"
   link: https://discord.gg/XkpVzMQ
   character: "萩原雪歩"
-- id: "双海亜美 discordなし"
-  character: "双海亜美"
-- id: "双海真美 discordなし"
-  character: "双海真美"
+- id: "双海姉妹のいたずら教室"
+  link: https://discord.gg/xVAzCdP
+  character: "双海亜美・真美"
 - id: "おにぎりは！！！！"
   link: https://discord.gg/uxPfVKA
   character: "星井美希"
