@@ -61,6 +61,9 @@
 - id: "ml_julia"
   link: https://discord.gg/54GJtqS
   character: "ジュリア"
+  sites:
+    - name: "Rockin' Rose Rise"
+    - link: https://rockin-rose-rise.jp/
 - id: "ももこーど"
   link: https://discord.gg/uBtqjEc
   character: "周防桃子"
