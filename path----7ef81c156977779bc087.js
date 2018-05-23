@@ -1,2 +1,2 @@
-webpackJsonp([60335399758886],{111:function(t,a){t.exports={data:{site:{siteMetadata:{title:"ARISA Idol Database"}}},layoutContext:{}}}});
+webpackJsonp([60335399758886],{107:function(t,a){t.exports={data:{site:{siteMetadata:{title:"ARISA Idol Database"}}},layoutContext:{}}}});
 //# sourceMappingURL=path----7ef81c156977779bc087.js.map
