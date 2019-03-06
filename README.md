@@ -1,5 +1,7 @@
 # adb
 
+[![CircleCI](https://circleci.com/gh/whoiron/adb/tree/master.svg?style=svg)](https://circleci.com/gh/whoiron/adb/tree/master)
+
 **adb is ARISA Idol Database**
 
 > アイドルデータベースを更新し続けるのです！
