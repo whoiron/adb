@@ -1,12 +1,12 @@
 {
   "assetsByChunkName": {
     "component---src-pages-discord-js": [
-      "component---src-pages-discord-js-abe9d6578ff27fcbb791.js",
-      "component---src-pages-discord-js-abe9d6578ff27fcbb791.js.map"
+      "component---src-pages-discord-js-8750d3119977c3fecbe4.js",
+      "component---src-pages-discord-js-8750d3119977c3fecbe4.js.map"
     ],
     "component---src-pages-index-js": [
-      "component---src-pages-index-js-b1c7748613614a2ff567.js",
-      "component---src-pages-index-js-b1c7748613614a2ff567.js.map"
+      "component---src-pages-index-js-f213a1e82dd2f510f73f.js",
+      "component---src-pages-index-js-f213a1e82dd2f510f73f.js.map"
     ],
     "path---": [
       "path----7ef81c156977779bc087.js",
@@ -25,16 +25,16 @@
       "path---index-28a6d0cc6e6808d32fae.js.map"
     ],
     "commons": [
-      "commons-8342e51888fb892c0570.js",
-      "commons-8342e51888fb892c0570.js.map"
+      "commons-afaa360892d8303cfd5a.js",
+      "commons-afaa360892d8303cfd5a.js.map"
     ],
     "path---discord": [
       "path---discord-80e50f04857ef3e4ccd7.js",
       "path---discord-80e50f04857ef3e4ccd7.js.map"
     ],
     "app": [
-      "app-58d3f5e5a17e4be747b6.js",
-      "app-58d3f5e5a17e4be747b6.js.map"
+      "app-6c305be3a6662719c2fa.js",
+      "app-6c305be3a6662719c2fa.js.map"
     ],
     "path---characters-song-1-tian-2-ya-4-li-4-sha-1": [
       "path---characters-song-1-tian-2-ya-4-li-4-sha-1-795663c8bab4102359dc.js",
